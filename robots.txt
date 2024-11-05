@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ohiloudo.github.io/HiB/sitemap_index.txt
+Sitemap: https://ohiloudo.github.io/YQo/sitemap_index.txt
+Sitemap: https://ohiloudo.github.io/pRq/sitemap_index.txt
+Sitemap: https://ohiloudo.github.io/uQy/sitemap_index.txt
